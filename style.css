@@ -53,6 +53,7 @@ img{
   border: 0;
   cursor: pointer;
   margin: 0 auto;
+  padding: .5rem;
 }
 .form-control{
   width: 75%;
